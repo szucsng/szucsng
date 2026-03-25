@@ -80,25 +80,7 @@
 
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=szucsng&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 🧠 Mindset
-
-```txt
-"Don't just code.
-Build systems that scale, work, and solve real problems."
-```
-
----
-
-## 📬 Contact
-
-```yaml
-Email: szucs.n@icloud.com
-GitHub: https://github.com/szucsng
-```
+</
 
 ---
 
