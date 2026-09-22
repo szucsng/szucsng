@@ -72,62 +72,52 @@ I also have a strong competitive programming background and value **problem solv
 
 ## 🚀 Featured Projects
 
+### 💈 Barbear Avas Barbershop
+
+Modern barbershop booking platform with a customer-facing website and connected barber management system.
+
+- 📅 Online appointment booking
+- 💈 Barber & service management
+- 📱 Responsive customer experience
+- 🔔 Automated appointment notifications
+- 🌐 Production website
+
+→ [barberavasbarbershop.hu](https://barberavasbarbershop.hu)
+
+---
+
+### 📅 Reservell
+
+Modern booking and business management platform focused on building flexible reservation systems for real-world businesses.
+
+- 📅 Online booking infrastructure
+- ⚙️ Business & appointment management
+- 🔔 Automated notifications
+- 🧩 Modular system architecture
+- 🌐 Web-based management platform
+
+→ [reservell.com](https://reservell.com)
+
+---
+
 ### 📸 Tatrái Stúdió
 
-Modern photography gallery platform built with **Next.js, TypeScript and MySQL**.
+Modern photography gallery platform with event management, authentication and automated image processing.
 
 - 🖼️ Event-based photo galleries
-- 🔐 Email/password authentication
-- 👥 Role-based admin system
+- 🔐 Authentication & role-based admin
 - 📤 Bulk image uploads
-- 🪄 Automatic thumbnail & medium image generation with Sharp
-- 🗄️ Prisma + MySQL
-- 🌐 Three.js interactive visuals
-- 📧 Email verification & password recovery
-
-**Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · MySQL · Better Auth · Sharp · Three.js
+- 🪄 Automatic image processing
+- 🗄️ MySQL + Prisma
+- 🌐 Three.js visuals
 
 → [View repository](https://github.com/szucsng/tatrai_studio)
 
 ---
 
-### 🖥️ Pterodactyl ServerSort
-
-A **Blueprint addon for Pterodactyl Panel** that adds server-side sorting to the server list.
-
-- Sort by name, status, node, CPU, RAM, disk and allocation
-- Ascending / descending sorting
-- Persistent user preferences
-- Pagination
-- Silent refresh
-- React + TypeScript frontend
-- Laravel/PHP backend
-
-→ [View repository](https://github.com/szucsng/PTPserversorting)
-
----
-
-### 🎵 MusicMe — Discord Music Bot
-
-A Python-based Discord music bot with YouTube playback and slash commands.
-
-- 🎵 YouTube playback
-- 📋 Queue management
-- 🔊 Volume control
-- ⏯️ Playback controls
-- 🔎 YouTube URL & search support
-- 🎨 Discord embeds
-- 🇭🇺 Hungarian commands
-
-**Stack:** Python · Discord · FFmpeg
-
-→ [View repository](https://github.com/szucsng/MusicMe)
-
----
-
 ### 🌐 Personal Website
 
-A minimal personal website built with a modern frontend stack.
+Personal portfolio website built with a modern frontend stack.
 
 **Stack:** React · TypeScript · Vite · Tailwind CSS
 
