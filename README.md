@@ -35,8 +35,6 @@ I also have a strong competitive programming background and value **problem solv
 
 ### 🏆 Achievements
 
-- 🥇 **Vadász Dénes Informatika Verseny** — 2nd place nationally
-- 🏅 **Dusza Árpád Programozási Verseny** — 4th place in the final
 - 🏐 Competitive volleyball — teamwork, discipline and communication
 
 ---
